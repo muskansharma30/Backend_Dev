@@ -1,0 +1,36 @@
+Node.js is a powerful JavaScript runtime built on Chrome's V8 engine. 
+It allows developers to run JavaScript code outside the browser. 
+Node.js is widely used for building fast and scalable backend applications. 
+Learning Node.js helps in understanding backend development, APIs, and server-side programming.
+Node.js is a powerful JavaScript runtime built on Chrome's V8 engine. 
+It allows developers to run JavaScript code outside the browser. 
+Node.js is widely used for building fast and scalable backend applications. 
+Learning Node.js helps in understanding backend development, APIs, and server-side programming.
+Node.js is a powerful JavaScript runtime built on Chrome's V8 engine. 
+It allows developers to run JavaScript code outside the browser. 
+Node.js is widely used for building fast and scalable backend applications. 
+Learning Node.js helps in understanding backend development, APIs, and server-side programming.
+Node.js is a powerful JavaScript runtime built on Chrome's V8 engine. 
+It allows developers to run JavaScript code outside the browser. 
+Node.js is widely used for building fast and scalable backend applications. 
+Learning Node.js helps in understanding backend development, APIs, and server-side programming.
+Node.js is a powerful JavaScript runtime built on Chrome's V8 engine. 
+It allows developers to run JavaScript code outside the browser. 
+Node.js is widely used for building fast and scalable backend applications. 
+Learning Node.js helps in understanding backend development, APIs, and server-side programming.
+Node.js is a powerful JavaScript runtime built on Chrome's V8 engine. 
+It allows developers to run JavaScript code outside the browser. 
+Node.js is widely used for building fast and scalable backend applications. 
+Learning Node.js helps in understanding backend development, APIs, and server-side programming.
+Node.js is a powerful JavaScript runtime built on Chrome's V8 engine. 
+It allows developers to run JavaScript code outside the browser. 
+Node.js is widely used for building fast and scalable backend applications. 
+Learning Node.js helps in understanding backend development, APIs, and server-side programming.
+Node.js is a powerful JavaScript runtime built on Chrome's V8 engine. 
+It allows developers to run JavaScript code outside the browser. 
+Node.js is widely used for building fast and scalable backend applications. 
+Learning Node.js helps in understanding backend development, APIs, and server-side programming.
+Node.js is a powerful JavaScript runtime built on Chrome's V8 engine. 
+It allows developers to run JavaScript code outside the browser. 
+Node.js is widely used for building fast and scalable backend applications. 
+Learning Node.js helps in understanding backend development, APIs, and server-side programming.
