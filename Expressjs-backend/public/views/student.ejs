@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Student Registration</title>
+</head>
+<body>
+
+    <h2>Student Registration Form</h2>
+
+    <form action="/students/register" method="POST">
+        
+        <input type="text" name="name" placeholder="Enter Name" required />
+        <br><br>
+
+        <input type="email" name="email" placeholder="Enter Email" required />
+        <br><br>
+
+        <select name="branch" required>
+            <option value="">Select Branch</option>
+            <option value="CSE">CSE</option>
+            <option value="Civil">Civil</option>
+            <option value="Mechanical">Mechanical</option>
+        </select>
+
+        <br><br>
+
+        <button type="submit">Submit</button>
+
+    </form>
+
+    <hr>
+
+    <h3>Current Students:</h3>
+
+    <ul>
+        <% if (allStudents.length === 0) { %>
+            <li>No students registered yet.</li>
+        <% } else { %>
+            <% allStudents.forEach(function(s) { %>
+                <li>
+                    Name: <%= s.name %> |
+                    Email: <%= s.email %> |
+                    Branch: <%= s.branch %>
+                </li>
+            <% }); %>
+        <% } %>
+    </ul>
+
+</body>
+</html>
